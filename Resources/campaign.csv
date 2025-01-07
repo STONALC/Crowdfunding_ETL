@@ -1,0 +1,5 @@
+campaign,goal,pledged,launch_date,end_date,category_id,subcategory_id
+Campaign1,1000,500,2/13/2020,3/1/2021,cat1,subcat1
+Campaign2,1500,1200,1/25/2021,5/25/2021,cat2,subcat2
+Campaign3,2000,2100,12/17/2020,12/30/2021,cat3,subcat3
+Campaign4,2500,2600,12/21/2020,8/23/2021,cat4,subcat4
