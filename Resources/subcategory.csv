@@ -1,5 +1,6 @@
-subcategory_id,subcategory
-subcat1,food trucks
-subcat2,rocks
-subcat3,web
-subcat4,plays
+subcategory_id,subcategory_name
+1,food truck
+2,rock
+3,web
+4,rock
+5,play
